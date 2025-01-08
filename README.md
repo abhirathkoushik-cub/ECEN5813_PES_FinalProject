@@ -9,14 +9,16 @@ Technologies Used:
 5. UART: UART will be used for debugging and logging gesture data to a serial monitor.
 
 Picture of the Setup:
+
 ![Image](https://github.com/user-attachments/assets/ece1fac3-35f2-4105-a3e3-e021c1d43623)
 
 Presentation PDF:
-[PES Final Project Presentation.pdf](https://github.com/user-attachments/files/18119615/PES.Final.Project.Presentation.pdf)
 
+[PES Final Project Presentation.pdf](https://github.com/user-attachments/files/18119615/PES.Final.Project.Presentation.pdf)
+ 
 UART Serial Terminal Screenshot:
+
 ![UART Terminal](https://github.com/user-attachments/assets/a75b694a-bb93-41e5-ab55-f1f39506c48c)
 
 Demo Video:
 Named "PES Project Demo Video", present in the main folder in git
-NOTE: Automated testcases were added after this video and hence the complete terminal output is shown in the UART Serial Terminal Screenshot above.
